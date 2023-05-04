@@ -18,3 +18,24 @@ body
     left: 0;
     outline: none;
 }
+.instruction {
+    position: absolute;
+    top: 2.5vh;
+    left: 2.5vw;
+
+    color: aliceblue;
+}
+.instruction h3 {
+    margin: 0 auto;
+}
+.name {
+    position: absolute;
+    top : 2.5vh;
+    right : 2.5vw;
+
+    color: aliceblue;
+
+}
+.name h2 {
+    margin: 0 auto;
+}
